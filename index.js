@@ -39,7 +39,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Select which license you want to add to your README:',
-        choices: ['BSD', 'MIT', 'GPL', 'None']
+        choices: ['Apache', 'MIT', 'GPL', 'MPL', 'IBM','None']
     }
 ];
 
