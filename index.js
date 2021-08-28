@@ -40,6 +40,14 @@ const questions = [
         name: 'license',
         message: 'Select which license you want to add to your README:',
         choices: ['Apache', 'MIT', 'GPL', 'MPL', 'IBM','None']
+    }, {
+        type: 'text',
+        name: 'github',
+        message: 'Provide your github username:'
+    }, {
+        type: 'text',
+        name: 'email',
+        message: 'Provide your email address:'
     }
 ];
 

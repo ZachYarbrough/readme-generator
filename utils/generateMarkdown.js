@@ -41,6 +41,7 @@ ${data.about}
 - [Usage](#usage)${renderLicenseLink(data.license)}
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Questions](#questions)
 ## Installation
 ${data.install}
 ## Usage
@@ -50,6 +51,9 @@ ${renderLicenseSection(data.license)}
 ${data.contribution}
 ## Tests
 ${data.test}
+## Questions
+Vist my github here: https://github.com/${data.github}.  
+If you have any questions email me at [${data.email}](mailto:${data.email}).
 `;
 }
 
