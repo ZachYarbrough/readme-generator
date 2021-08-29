@@ -8,7 +8,7 @@
 - [Questions](#questions)
 ## Description
 A node project that uses inquirer to prompt the user for information and generates a README based on the user's input.  
-https://user-images.githubusercontent.com/70774264/131256330-a986ead0-a403-455d-83d7-5d62cd22dc72.mp4
+[Video Walkthrough](https://user-images.githubusercontent.com/70774264/131256330-a986ead0-a403-455d-83d7-5d62cd22dc72.mp4)
 ## Installation
 	git clone git@github.com:ZachYarbrough/readme-generator.git
     cd readme-generator
