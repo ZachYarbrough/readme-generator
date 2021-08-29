@@ -9,7 +9,7 @@
 ## Description
 A node project that uses inquirer to prompt the user for information and generates a README based on the user's input
 ## Installation
-	git clone git@github.com/ZachYarbrough/readme-generator
+	git clone git@github.com:ZachYarbrough/readme-generator.git
     cd readme-generator
     npm install
 ## Usage
